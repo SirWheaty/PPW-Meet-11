@@ -9,10 +9,10 @@
 // ==========================================
 // Bagian 1: Data Profil Diri (Variabel PHP)
 // ==========================================
-$nama = "Budi Santoso"; // Ganti dengan nama Anda
-$nim = "A11.2023.12345"; // Ganti dengan NIM Anda
-$prodi = "Teknik Informatika"; // Ganti dengan Program Studi Anda
-$asal_kota = "Semarang"; // Ganti dengan Asal Kota Anda
+$nama = "Arya Setiya";
+$nim = "25/524857/SV/26529";
+$prodi = "Teknik Informatika";
+$asal_kota = "Semarang";
 
 
 // ==========================================
